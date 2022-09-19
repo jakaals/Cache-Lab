@@ -1,6 +1,5 @@
 # LAB 5 of CMPSC311
-This program is the final project of CMPSC311 where the task was to add networking support
-to my JBOD protocol caching system
+This program is the final project of CMPSC311 where the task was to add networking support to my JBOD protocol caching system
 # Commits listed below:
 
 Extra comments added. Passes all trace tests
