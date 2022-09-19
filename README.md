@@ -1,6 +1,6 @@
 # LAB 5 of CMPSC311
 
-#Commits listed below:
+# Commits listed below:
 
 Extra comments added. Passes all trace tests
 Jkb6181 committed on Apr 27
