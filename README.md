@@ -1,7 +1,6 @@
 # LAB 5 of CMPSC311
-# Commits are non visible due to transfer
 
-Commits Listed Below:
+#Commits listed below:
 
 Extra comments added. Passes all trace tests
 Jkb6181 committed on Apr 27
